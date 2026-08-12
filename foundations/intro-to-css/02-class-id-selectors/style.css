@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+
+.odd {
+    background-color: rgb(240, 90, 112);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.blue {
+    color: rgb(9, 9, 246);
+    font-size: 36px;
+}
+
+.green {
+    background-color: rgb(118, 225, 118);
+    font-size: 24px;
+}
+
+.odd.three {
+    font-size: 24px;
+    font-weight: bold;
+}
